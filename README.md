@@ -58,7 +58,7 @@ Outputs:
         - !Ref 'C9IDE'
 
 
-
+Then Run:  ssh /home/ec2-user/environment/terraform-vpc-proj/post-run.ksh
 
 sudo yum install unzip
 sudo yum update -y
